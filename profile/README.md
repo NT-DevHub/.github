@@ -49,8 +49,6 @@ email: hello@nottekk.dev
 
 Thank you for visiting NT DevHub! We look forward to working with you.
 
-## GitHub's Stats
+## Disclaimer
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NT-DevHub&show_icons=true&locale=en&layout=compact" alt="NT-DevHub" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NT-DevHub&show_icons=true&locale=en" alt="NT-DevHub" /></p>
+NT DevHub is a company under the NT Holdings umbrela.
