@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://cdn.discordapp.com/splashes/1207460031751262240/15988a3e9aed2adcdc8c4b7210c3ec02.jpg?size=512"></img>
+<img src="https://cdn.discordapp.com/splashes/1207460031751262240/15988a3e9aed2adcdc8c4b7210c3ec02.jpg?size=1024"></img>
 
 </div>
 
