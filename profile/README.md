@@ -45,7 +45,7 @@ We are currently looking for freelancers in development and design areas. If you
 
 Feel free to reach out to us for any inquiries or collaboration opportunities.
 
-email: hello@nottekk.dev
+email: devhub@nottekk.dev
 
 Thank you for visiting NT DevHub! We look forward to working with you.
 
