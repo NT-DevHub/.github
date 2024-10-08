@@ -6,21 +6,21 @@
 
 ## 
 
-Welcome to **NT DevHub**! We are a global team of developers with open source code in our veins. Our mission is to create and distribute high-quality software on demand for customers all over the world.
+Welcome to **Nithron**! We are a global team of developers with open source code in our veins. Our mission is to create and distribute high-quality software on demand for customers all over the world.
 
 ## About Us
 
-- **Headquarters**: Berlin, Germany
-- **Branch**: São Paulo, Brazil
+- **Headquarters**: São Paulo, Brazil
+- **Branch**: Berlin, Germany
 - **Database**: Based in Berlin, Germany
 
-<a href="https://discord.gg/qzB37WS5AT">
-         <img alt="NT DevHub" src="https://discord.com/api/guilds/1207460031751262240/widget.png?style=banner2">
+<a href="https://discord.gg/nithron">
+         <img alt="Nithron" src="https://discord.com/api/guilds/1207460031751262240/widget.png?style=banner2">
 </a>
 
 ## What We Do
 
-At NT DevHub, we strive for excellence in every project. We use the latest technologies to ensure our code is top-notch and meets the highest standards. Our services include:
+At Nithron, we strive for excellence in every project. We use the latest technologies to ensure our code is top-notch and meets the highest standards. Our services include:
 
 - Custom software development
 - Open source contributions
@@ -43,12 +43,12 @@ We are currently looking for freelancers in development and design areas. If you
 
 ## Contact Us
 
-Feel free to reach out to us for any inquiries or collaboration opportunities.
+Feel free to reach out to us for any dev inquiries or collaboration opportunities.
 
-email: devhub@nottekk.dev
+email: dev@nithron.com
 
 Thank you for visiting NT DevHub! We look forward to working with you.
 
 ## Disclaimer
 
-NT DevHub is a company under the NT Holdings umbrela.
+Nithron is a company under the NT Holdings umbrela.
